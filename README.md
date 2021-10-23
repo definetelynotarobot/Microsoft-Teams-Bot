@@ -1,4 +1,4 @@
-# Microsoft Teams Online Class Attender
+# Microsoft Teams Bot
 
 This project is not updated/maintained. It is a FIY (Fix It Yourself).
 
