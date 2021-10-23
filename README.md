@@ -10,7 +10,6 @@ This bot attends the online classes (or meetings) held on Microsoft teams, accor
 There are few things you need to configure before running this bot.
 
  - Open Microsoft teams on your browser, login to your account, change the dashboard view to list view (from grid view), so that your classes are displayed in a list view. 
- - ![This is how list view looks like](https://i.imgur.com/SSDo8c6.png)
  - Open *bot.py*, and put your microsoft teams credentials in the **CREDS** dictionary. 
  - Example - `CREDS  = {'email' : 'myemail@email.com', 'passwd':'''mypassword'''}`
  - Open *discord_webhook.py* and put your discord webhook URL in the **webhook_url** variable. 
@@ -19,7 +18,7 @@ There are few things you need to configure before running this bot.
 
 ## Install
 
- - Clone the repository `git clone https://github.com/teja156/microsoft-teams-class-attender`
+ - Clone the repository `git clone https://github.com/definetelynotarobot/Microsoft-Teams-Bot`
  - Install requirements.txt `pip install -r requirements.txt`
  
 
